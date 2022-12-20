@@ -8,9 +8,9 @@ package mmr
 import (
 	"io"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/reader"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/reader"
 )
 
 const (

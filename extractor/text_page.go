@@ -11,8 +11,8 @@ import (
 	"math"
 	"sort"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // makeTextPage builds a paraList from `marks`, the textMarks on a page.

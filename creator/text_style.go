@@ -6,7 +6,7 @@
 package creator
 
 import (
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // TextStyle is a collection of properties that can be assigned to a chunk of text.

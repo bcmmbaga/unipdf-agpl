@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 func TestListSimple(t *testing.T) {

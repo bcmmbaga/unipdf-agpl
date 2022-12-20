@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"testing"
 
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 	"github.com/stretchr/testify/require"
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
 )
 
 // Split tests splits a single page from a PDF, writes out and performs a sanity check on the output with ghostscript.

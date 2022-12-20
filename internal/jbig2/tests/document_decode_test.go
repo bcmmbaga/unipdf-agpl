@@ -16,7 +16,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
 )
 
 // TestDecodeJBIG2Files tries to decode the provided jbig2 files.

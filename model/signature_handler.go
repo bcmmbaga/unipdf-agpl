@@ -11,8 +11,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 )
 
 // Hasher is the interface that wraps the basic Write method.

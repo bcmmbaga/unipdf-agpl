@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 )
 
 // IdentityEncoder represents an 2-byte identity encoding.

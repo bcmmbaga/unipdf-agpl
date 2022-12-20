@@ -15,8 +15,8 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // SignFunc represents a custom signing function. The function should return

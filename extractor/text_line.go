@@ -10,7 +10,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // textLine repesents words on the same line within a textPara.

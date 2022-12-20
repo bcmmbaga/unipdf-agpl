@@ -13,12 +13,12 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/cmap"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/textencoding"
-	"github.com/fxtentacle/unipdf-agpl/v3/model/internal/fonts"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/cmap"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/textencoding"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model/internal/fonts"
 )
 
 // pdfFont is an internal interface for fonts that can be stored in PDF documents.

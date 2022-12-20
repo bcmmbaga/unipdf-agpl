@@ -9,7 +9,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 )
 
 // Errors when parsing/loading data in PDF.

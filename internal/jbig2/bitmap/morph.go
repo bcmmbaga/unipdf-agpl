@@ -6,9 +6,9 @@
 package bitmap
 
 import (
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/errors"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/errors"
 )
 
 // BoundaryCondition is the global enum variable used to define morph operation boundary conditions.

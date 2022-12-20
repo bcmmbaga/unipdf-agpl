@@ -9,8 +9,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 )
 
 // ParseIndObjSeries loads a series of indirect objects until it runs into an error or EOF.

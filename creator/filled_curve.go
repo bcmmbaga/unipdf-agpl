@@ -6,10 +6,10 @@
 package creator
 
 import (
-	pdfcontent "github.com/fxtentacle/unipdf-agpl/v3/contentstream"
-	"github.com/fxtentacle/unipdf-agpl/v3/contentstream/draw"
-	pdfcore "github.com/fxtentacle/unipdf-agpl/v3/core"
-	pdf "github.com/fxtentacle/unipdf-agpl/v3/model"
+	pdfcontent "github.com/bcmmbaga/unipdf-agpl/v3/contentstream"
+	"github.com/bcmmbaga/unipdf-agpl/v3/contentstream/draw"
+	pdfcore "github.com/bcmmbaga/unipdf-agpl/v3/core"
+	pdf "github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // FilledCurve represents a closed path of Bezier curves with a border and fill.

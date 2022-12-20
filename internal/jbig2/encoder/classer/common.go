@@ -9,9 +9,9 @@ import (
 	"image"
 	"math"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/bitmap"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/errors"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/bitmap"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/errors"
 )
 
 // JbAddedPixels is the size of the border added around pix of each c.c. for further processing.

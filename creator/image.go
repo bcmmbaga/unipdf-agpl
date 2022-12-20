@@ -11,11 +11,11 @@ import (
 	goimage "image"
 	"os"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/contentstream"
-	"github.com/fxtentacle/unipdf-agpl/v3/contentstream/draw"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/contentstream"
+	"github.com/bcmmbaga/unipdf-agpl/v3/contentstream/draw"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // The Image type is used to draw an image onto PDF.

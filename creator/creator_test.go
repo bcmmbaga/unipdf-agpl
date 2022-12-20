@@ -27,14 +27,14 @@ import (
 	"github.com/boombuler/barcode/qr"
 	"github.com/stretchr/testify/require"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/contentstream/draw"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/extractor"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
-	"github.com/fxtentacle/unipdf-agpl/v3/model/optimize"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/contentstream/draw"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/extractor"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model/optimize"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/testutils"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/testutils"
 )
 
 func init() {

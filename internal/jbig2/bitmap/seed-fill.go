@@ -8,8 +8,8 @@ package bitmap
 import (
 	"image"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/basic"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/errors"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/basic"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/errors"
 )
 
 // maxIterations is a constant used to prevent infitite loops.

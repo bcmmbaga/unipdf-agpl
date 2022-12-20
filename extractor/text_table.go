@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // textTable is a table of `w` x `h` textPara cells.

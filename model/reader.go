@@ -11,9 +11,9 @@ import (
 	"io"
 	"strings"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/core/security"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core/security"
 )
 
 // PdfReader represents a PDF file reader. It is a frontend to the lower level parsing mechanism and provides

@@ -6,8 +6,8 @@
 package optimize
 
 import (
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // Chain allows to use sequence of optimizers.

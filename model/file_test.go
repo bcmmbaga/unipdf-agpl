@@ -6,8 +6,8 @@
 package model
 
 import (
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 	"github.com/stretchr/testify/require"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
 	"strings"
 	"testing"
 )

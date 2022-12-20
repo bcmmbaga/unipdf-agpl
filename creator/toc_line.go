@@ -8,7 +8,7 @@ package creator
 import (
 	"strings"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // TOCLine represents a line in a table of contents.

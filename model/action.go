@@ -7,8 +7,8 @@ package model
 
 import (
 	"fmt"
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 )
 
 // PdfActionType represents an action type in PDF (section 12.6.4 p. 417).

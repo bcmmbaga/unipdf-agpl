@@ -3,8 +3,8 @@ package jbig2
 import (
 	"sort"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/document"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/document/segments"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/document"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/document/segments"
 )
 
 // Globals is the v3 mapping of the jbig2 segments to header mapping.

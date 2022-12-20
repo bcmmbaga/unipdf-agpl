@@ -10,11 +10,11 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/errors"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/reader"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/writer"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/errors"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/reader"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/writer"
 )
 
 // tab8 contains number of '1' bits in each possible 8 bit value stored at it's index.

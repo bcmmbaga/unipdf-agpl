@@ -6,8 +6,8 @@
 package fonts
 
 import (
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/textencoding"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/textencoding"
 )
 
 // StdFontName is a name of a standard font.

@@ -12,9 +12,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	pdfcontent "github.com/fxtentacle/unipdf-agpl/v3/contentstream"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	pdf "github.com/fxtentacle/unipdf-agpl/v3/model"
+	pdfcontent "github.com/bcmmbaga/unipdf-agpl/v3/contentstream"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	pdf "github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 const aes3Dir = `./testdata`

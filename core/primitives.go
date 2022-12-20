@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/strutils"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/strutils"
 )
 
 // PdfObject is an interface which all primitive PDF objects must implement.

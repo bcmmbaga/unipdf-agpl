@@ -10,7 +10,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
 )
 
 // Offset reader encapsulates io.ReadSeeker and offsets it by the specified

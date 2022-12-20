@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/textencoding"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/textencoding"
 )
 
 const fontDir = `../../../creator/testdata`

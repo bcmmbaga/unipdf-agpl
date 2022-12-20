@@ -9,10 +9,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/transform"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/transform"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // GraphicsState is a basic graphics state implementation for PDF processing.

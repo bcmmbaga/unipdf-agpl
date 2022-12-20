@@ -10,7 +10,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
 )
 
 // SubstreamReader is the wrapper over the Reader's parts that is allowed only to

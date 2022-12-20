@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	pdfcore "github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	pdfcore "github.com/bcmmbaga/unipdf-agpl/v3/core"
 )
 
 // PSParser is a basic Postscript parser.

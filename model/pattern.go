@@ -10,8 +10,8 @@ import (
 
 	"fmt"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 )
 
 // A PdfPattern can represent a Pattern, either a tiling pattern or a shading pattern.

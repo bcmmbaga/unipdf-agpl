@@ -12,8 +12,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/document"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/reader"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/document"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/reader"
 )
 
 // BenchmarkDecodeJBIG2Files benchmarks the decoding process of  jbig2 encoded images stored within pdf files.

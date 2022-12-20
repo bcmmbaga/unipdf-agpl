@@ -6,7 +6,5 @@
 package license
 
 import (
-	_ "github.com/fxtentacle/unipdf-agpl/v3/common"
+	_ "github.com/bcmmbaga/unipdf-agpl/v3/common"
 )
-
-

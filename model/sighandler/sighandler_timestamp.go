@@ -18,10 +18,10 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 	"github.com/unidoc/pkcs7"
 	"github.com/unidoc/timestamp"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
 )
 
 // docTimeStamp DocTimeStamp signature handler.

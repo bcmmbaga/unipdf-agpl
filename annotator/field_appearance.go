@@ -11,12 +11,12 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/contentstream"
-	"github.com/fxtentacle/unipdf-agpl/v3/contentstream/draw"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/textencoding"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/contentstream"
+	"github.com/bcmmbaga/unipdf-agpl/v3/contentstream/draw"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/textencoding"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // FieldAppearance implements interface model.FieldAppearanceGenerator and generates appearance streams

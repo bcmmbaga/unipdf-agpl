@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 var seed = rand.New(rand.NewSource(time.Now().UnixNano()))

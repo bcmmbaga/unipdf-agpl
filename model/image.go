@@ -16,11 +16,11 @@ import (
 	_ "image/png"
 	"io"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/imageutil"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/bitmap"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/sampling"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/imageutil"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/bitmap"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/sampling"
 )
 
 // Image interface is a basic representation of an image used in PDF.

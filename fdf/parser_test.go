@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
 )
 
 const fdfExample1 = `

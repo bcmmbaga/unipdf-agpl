@@ -9,7 +9,7 @@ The newer UniPDF releases (e.g. 3.10.0 from August 2020) have turned exclusively
 As their new $1500 individual and $3000 company licenses are obviously impractical for open source projects,
 I'm archiving this here so that I can continue to use Unipdf with
 ```
-go get github.com/fxtentacle/unipdf-agpl
+go get github.com/bcmmbaga/unipdf-agpl
 ``` 
 in my AGPL-compatible hobby projects.
 

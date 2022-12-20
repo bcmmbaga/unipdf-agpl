@@ -11,11 +11,11 @@ import (
 
 	"github.com/unidoc/unitype"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core"
-	"github.com/fxtentacle/unipdf-agpl/v3/extractor"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/textencoding"
-	"github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core"
+	"github.com/bcmmbaga/unipdf-agpl/v3/extractor"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/textencoding"
+	"github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // CleanFonts cleans up embedded fonts, reducing font sizes.

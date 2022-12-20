@@ -10,14 +10,14 @@ import (
 	"io"
 	"runtime/debug"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/bitmap"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/document/segments"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/encoder/classer"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/errors"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/reader"
-	"github.com/fxtentacle/unipdf-agpl/v3/internal/jbig2/writer"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/bitmap"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/document/segments"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/encoder/classer"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/errors"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/reader"
+	"github.com/bcmmbaga/unipdf-agpl/v3/internal/jbig2/writer"
 )
 
 // fileHeaderID first byte slices of the jbig2 encoded file, see D.4.1.

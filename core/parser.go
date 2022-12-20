@@ -18,8 +18,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/core/security"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/core/security"
 )
 
 // Regular Expressions for parsing and identifying object signatures.

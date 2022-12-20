@@ -6,10 +6,10 @@
 package annotator
 
 import (
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
-	"github.com/fxtentacle/unipdf-agpl/v3/contentstream/draw"
-	pdfcore "github.com/fxtentacle/unipdf-agpl/v3/core"
-	pdf "github.com/fxtentacle/unipdf-agpl/v3/model"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/contentstream/draw"
+	pdfcore "github.com/bcmmbaga/unipdf-agpl/v3/core"
+	pdf "github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // LineAnnotationDef defines a line between point 1 (X1,Y1) and point 2 (X2,Y2).  The line ending styles can be none

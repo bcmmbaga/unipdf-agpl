@@ -3,9 +3,9 @@ package draw
 import (
 	"math"
 
-	pdfcontent "github.com/fxtentacle/unipdf-agpl/v3/contentstream"
-	pdfcore "github.com/fxtentacle/unipdf-agpl/v3/core"
-	pdf "github.com/fxtentacle/unipdf-agpl/v3/model"
+	pdfcontent "github.com/bcmmbaga/unipdf-agpl/v3/contentstream"
+	pdfcore "github.com/bcmmbaga/unipdf-agpl/v3/core"
+	pdf "github.com/bcmmbaga/unipdf-agpl/v3/model"
 )
 
 // Circle represents a circle shape with fill and border properties that can be drawn to a PDF content stream.

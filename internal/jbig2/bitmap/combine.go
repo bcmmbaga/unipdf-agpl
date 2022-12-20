@@ -8,7 +8,7 @@ package bitmap
 import (
 	"image"
 
-	"github.com/fxtentacle/unipdf-agpl/v3/common"
+	"github.com/bcmmbaga/unipdf-agpl/v3/common"
 )
 
 // CombineBytes combines the provided bytes with respect to the CombinationOperator.
